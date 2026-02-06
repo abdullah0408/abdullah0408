@@ -24,7 +24,7 @@
 - 📫 How to reach me: **hello@abdullah.co.in**;
 
 ## Languages and Tools:
-<a href="https://github.com/abdullah0408"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abdullah0408&show_icons=true&hide_border=true&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abdullah0408&show_icons=true&hide_border=true&theme=default"><img width="45%" align="right" alt="Abdullah's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abdullah0408&show_icons=true&hide_border=true&theme=default"></picture></a>
+<a href="https://github.com/abdullah0408"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.abdullah.co.in/api?username=abdullah0408&show_icons=true&hide_border=true&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.abdullah.co.in/api?username=abdullah0408&show_icons=true&hide_border=true&theme=default"><img width="45%" align="right" alt="Abdullah's GitHub stats" src="https://github-readme-stats.abdullah.co.in/api?username=abdullah0408&show_icons=true&hide_border=true&theme=default"></picture></a>
 
 <picture><img width="5%" src="./public/languages-and-tools/javascript.svg" alt="JavaScript"></picture>
 <picture><img width="5%" src="./public/languages-and-tools/typescript.svg" alt="TypeScript"></picture>
